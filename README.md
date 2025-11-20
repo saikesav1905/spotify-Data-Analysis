@@ -66,11 +66,11 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
 - **Query Execution Plan**: Using `EXPLAIN ANALYZE` to review and refine query performance.
 
 ### 4. Dashboards
-![Spotify Home](https://github.com/Srivishnuu/Spotify-Data-Analysis-using-SQL/blob/965ee304970beae8f297091592b1ec1ac777b72b/Spotify%20Dashboard%20home%20.jpg )
+![Spotify Home](https://github.com/Saikesav/Spotify-Data-Analysis-using-SQL/blob/965ee304970beae8f297091592b1ec1ac777b72b/Spotify%20Dashboard%20home%20.jpg )
 
-![Spotify Home](https://github.com/Srivishnuu/Spotify-Data-Analysis-using-SQL/blob/965ee304970beae8f297091592b1ec1ac777b72b/Spotify%20Artist%20Dashboard%20.jpg)
+![Spotify Home](https://github.com/Saikesav/Spotify-Data-Analysis-using-SQL/blob/965ee304970beae8f297091592b1ec1ac777b72b/Spotify%20Artist%20Dashboard%20.jpg)
 
-![Spotify Home](https://github.com/Srivishnuu/Spotify-Data-Analysis-using-SQL/blob/965ee304970beae8f297091592b1ec1ac777b72b/Spotify%20Song%20Dashboard%20.jpg)
+![Spotify Home](https://github.com/Saikesav/Spotify-Data-Analysis-using-SQL/blob/965ee304970beae8f297091592b1ec1ac777b72b/Spotify%20Song%20Dashboard%20.jpg)
 
   
 ---
